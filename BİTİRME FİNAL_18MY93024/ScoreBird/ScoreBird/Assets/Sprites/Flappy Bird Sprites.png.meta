@@ -1,0 +1,1266 @@
+fileFormatVersion: 2
+guid: 6c4ef6504667d8745941dacc1dab51a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Flappy Bird Sprites_0
+  - first:
+      213: 21300002
+    second: pipe
+  - first:
+      213: 21300004
+    second: Flappy Bird Blue_1
+  - first:
+      213: 21300006
+    second: Flappy Bird Sprites_3
+  - first:
+      213: 21300008
+    second: Flappy Bird Sprites_4
+  - first:
+      213: 21300010
+    second: Flappy Bird Sprites_5
+  - first:
+      213: 21300012
+    second: Flappy Bird Sprites_6
+  - first:
+      213: 21300014
+    second: Flappy Bird Blue_2
+  - first:
+      213: 21300016
+    second: Flappy Bird Sprites_8
+  - first:
+      213: 21300018
+    second: Flappy Bird Sprites_9
+  - first:
+      213: 21300020
+    second: Flappy Bird Sprites_10
+  - first:
+      213: 21300022
+    second: Flappy Bird Sprites_11
+  - first:
+      213: 21300024
+    second: Flappy Bird Blue3
+  - first:
+      213: 21300026
+    second: Flappy Bird Sprites_13
+  - first:
+      213: 21300028
+    second: Flappy Bird Sprites_14
+  - first:
+      213: 21300030
+    second: Flappy Bird Sprites_16
+  - first:
+      213: 21300032
+    second: Flappy Bird Sprites_17
+  - first:
+      213: 21300034
+    second: Flappy Bird Sprites_18
+  - first:
+      213: 21300036
+    second: Flappy Bird Blue Died
+  - first:
+      213: 21300038
+    second: Flappy Bird Sprites_21
+  - first:
+      213: 21300040
+    second: Flappy Bird Sprites_22
+  - first:
+      213: 21300042
+    second: Flappy Bird Sprites_23
+  - first:
+      213: 21300044
+    second: Flappy Bird Sprites_24
+  - first:
+      213: 21300046
+    second: Flappy Bird Sprites_25
+  - first:
+      213: 21300048
+    second: Flappy Bird Sprites_26
+  - first:
+      213: 21300050
+    second: Flappy Bird Sprites_27
+  - first:
+      213: 21300052
+    second: Flappy Bird Sprites_28
+  - first:
+      213: 21300054
+    second: Flappy Bird Sprites_29
+  - first:
+      213: 21300056
+    second: Flappy Bird Sprites_30
+  - first:
+      213: 21300058
+    second: ground
+  - first:
+      213: 21300060
+    second: Flappy Bird Sprites_32
+  - first:
+      213: 21300062
+    second: Flappy Bird Sprites_33
+  - first:
+      213: 21300064
+    second: Flappy Bird Sprites_34
+  - first:
+      213: 21300066
+    second: Flappy Bird Sprites_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 462
+        width: 88
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipe
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 462
+        width: 89
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Blue_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1005
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1005
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1006
+        width: 101
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 993
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 842
+        width: 362
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Blue_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 926
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 926
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 928
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 983
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 945
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Blue3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 844
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 844
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 847
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 892
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 896
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Blue Died
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 760
+        width: 103
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 760
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 762
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 571
+        width: 495
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 598
+        width: 166
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 598
+        width: 164
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 463
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 463
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 462
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 472
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 477
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 214
+        width: 719
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 130
+        width: 206
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 47
+        width: 252
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 45
+        width: 257
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 16
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -387.5, y: -445.5}
+      - {x: -412.5, y: -425.5}
+      - {x: -418.5, y: -424.5}
+      - {x: -457.5, y: -424.5}
+      - {x: -482.5, y: -442.5}
+      - {x: -491.5, y: -465.5}
+      - {x: -491.5, y: -494.5}
+      - {x: -482.5, y: -514.5}
+      - {x: -470.5, y: -527.5}
+      - {x: -453.5, y: -534.5}
+      - {x: -415.5, y: -534.5}
+      - {x: -387.5, y: -515.5}
+      - {x: -380.5, y: -494.5}
+      - {x: -380.5, y: -467.5}
+    - - {x: 202.5, y: -352.5}
+      - {x: 186.5, y: -348.5}
+      - {x: -4.5, y: -348.5}
+      - {x: -34.5, y: -368.5}
+      - {x: -35.5, y: -388.5}
+      - {x: -35.5, y: -475.5}
+      - {x: -18.5, y: -498.5}
+      - {x: -0.5, y: -505.5}
+      - {x: 195.5, y: -505.5}
+      - {x: 225.5, y: -483.5}
+      - {x: 225.5, y: -372.5}
+    - - {x: -78.5, y: -348.5}
+      - {x: -266.5, y: -348.5}
+      - {x: -288.5, y: -357.5}
+      - {x: -303.5, y: -365.5}
+      - {x: -303.5, y: -494.5}
+      - {x: -277.5, y: -503.5}
+      - {x: -78.5, y: -503.5}
+      - {x: -54.5, y: -484.5}
+      - {x: -47.5, y: -475.5}
+      - {x: -47.5, y: -363.5}
+    - - {x: -524.5, y: -347.5}
+      - {x: -526.5, y: -349.5}
+      - {x: -526.5, y: -418.5}
+      - {x: -524.5, y: -420.5}
+      - {x: -318.5, y: -420.5}
+      - {x: -316.5, y: -418.5}
+      - {x: -316.5, y: -349.5}
+      - {x: -318.5, y: -347.5}
+    - - {x: -522.5, y: -96.5}
+      - {x: -522.5, y: -336.5}
+      - {x: 200.5, y: -336.5}
+      - {x: 200.5, y: -96.5}
+      - {x: 198.5, y: -94.5}
+      - {x: -520.5, y: -94.5}
+    - - {x: -526.5, y: 534.5}
+      - {x: -526.5, y: -87.5}
+      - {x: -524.5, y: -88.5}
+      - {x: -436.5, y: -88.5}
+      - {x: -434.5, y: 418.5}
+      - {x: -434.5, y: 534.5}
+    - - {x: -434.5, y: 534.5}
+      - {x: -434.5, y: 245.5}
+      - {x: -428.5, y: -88.5}
+      - {x: -346.5, y: -88.5}
+      - {x: -341.5, y: 227.5}
+      - {x: -341.5, y: 534.5}
+    - - {x: -14.5, y: -52.5}
+      - {x: -14.5, y: -11.5}
+      - {x: -32.5, y: 9.5}
+      - {x: -47.5, y: 17.5}
+      - {x: -90.5, y: 17.5}
+      - {x: -115.5, y: -5.5}
+      - {x: -120.5, y: -14.5}
+      - {x: -120.5, y: -50.5}
+      - {x: -117.5, y: -70.5}
+      - {x: -86.5, y: -88.5}
+      - {x: -58.5, y: -88.5}
+      - {x: -45.5, y: -85.5}
+      - {x: -35.5, y: -78.5}
+      - {x: -19.5, y: -71.5}
+    - - {x: -266.5, y: 17.5}
+      - {x: -309.5, y: 17.5}
+      - {x: -336.5, y: -1.5}
+      - {x: -336.5, y: -59.5}
+      - {x: -328.5, y: -68.5}
+      - {x: -308.5, y: -87.5}
+      - {x: -256.5, y: -87.5}
+      - {x: -247.5, y: -86.5}
+      - {x: -231.5, y: -55.5}
+      - {x: -231.5, y: -14.5}
+      - {x: -249.5, y: 13.5}
+    - - {x: -126.5, y: -5.5}
+      - {x: -146.5, y: 12.5}
+      - {x: -155.5, y: 17.5}
+      - {x: -190.5, y: 17.5}
+      - {x: -215.5, y: 12.5}
+      - {x: -228.5, y: -14.5}
+      - {x: -228.5, y: -55.5}
+      - {x: -206.5, y: -82.5}
+      - {x: -195.5, y: -87.5}
+      - {x: -162.5, y: -87.5}
+      - {x: -146.5, y: -83.5}
+      - {x: -137.5, y: -78.5}
+      - {x: -122.5, y: -52.5}
+      - {x: -122.5, y: -19.5}
+    - - {x: -1.5, y: 9.5}
+      - {x: -3.5, y: 7.5}
+      - {x: -3.5, y: -76.5}
+      - {x: -1.5, y: -78.5}
+      - {x: 82.5, y: -78.5}
+      - {x: 84.5, y: -76.5}
+      - {x: 84.5, y: 7.5}
+      - {x: 82.5, y: 9.5}
+    - - {x: 116.5, y: -0.5}
+      - {x: 114.5, y: -2.5}
+      - {x: 114.5, y: -71.5}
+      - {x: 116.5, y: -73.5}
+      - {x: 179.5, y: -73.5}
+      - {x: 181.5, y: -71.5}
+      - {x: 181.5, y: -2.5}
+      - {x: 179.5, y: -0.5}
+    - - {x: 40.5, y: 273.5}
+      - {x: 35.5, y: 268.5}
+      - {x: 35.5, y: 36.5}
+      - {x: 37.5, y: 20.5}
+      - {x: 527.5, y: 20.5}
+      - {x: 534.5, y: 23.5}
+      - {x: 534.5, y: 273.5}
+    - - {x: -319.5, y: 151.5}
+      - {x: -331.5, y: 136.5}
+      - {x: -331.5, y: 61.5}
+      - {x: -321.5, y: 47.5}
+      - {x: -181.5, y: 47.5}
+      - {x: -161.5, y: 50.5}
+      - {x: -161.5, y: 135.5}
+      - {x: -168.5, y: 151.5}
+    - - {x: 5.5, y: 149.5}
+      - {x: -144.5, y: 149.5}
+      - {x: -148.5, y: 135.5}
+      - {x: -148.5, y: 51.5}
+      - {x: -136.5, y: 47.5}
+      - {x: 1.5, y: 47.5}
+      - {x: 18.5, y: 51.5}
+      - {x: 19.5, y: 56.5}
+      - {x: 19.5, y: 139.5}
+    - - {x: -246.5, y: 269.5}
+      - {x: -261.5, y: 285.5}
+      - {x: -270.5, y: 287.5}
+      - {x: -304.5, y: 287.5}
+      - {x: -337.5, y: 268.5}
+      - {x: -337.5, y: 236.5}
+      - {x: -311.5, y: 210.5}
+      - {x: -302.5, y: 209.5}
+      - {x: -274.5, y: 209.5}
+      - {x: -248.5, y: 218.5}
+      - {x: -230.5, y: 232.5}
+      - {x: -230.5, y: 241.5}
+    - - {x: -136.5, y: 272.5}
+      - {x: -160.5, y: 287.5}
+      - {x: -203.5, y: 287.5}
+      - {x: -230.5, y: 261.5}
+      - {x: -230.5, y: 234.5}
+      - {x: -202.5, y: 210.5}
+      - {x: -186.5, y: 209.5}
+      - {x: -170.5, y: 209.5}
+      - {x: -144.5, y: 214.5}
+      - {x: -122.5, y: 233.5}
+      - {x: -122.5, y: 241.5}
+    - - {x: -19.5, y: 279.5}
+      - {x: -43.5, y: 289.5}
+      - {x: -86.5, y: 289.5}
+      - {x: -115.5, y: 264.5}
+      - {x: -115.5, y: 239.5}
+      - {x: -110.5, y: 225.5}
+      - {x: -84.5, y: 211.5}
+      - {x: -48.5, y: 211.5}
+      - {x: -17.5, y: 223.5}
+      - {x: -6.5, y: 239.5}
+      - {x: -6.5, y: 245.5}
+    - - {x: 294.5, y: 358.5}
+      - {x: 265.5, y: 358.5}
+      - {x: 257.5, y: 351.5}
+      - {x: 256.5, y: 338.5}
+      - {x: 256.5, y: 333.5}
+      - {x: 259.5, y: 332.5}
+      - {x: 257.5, y: 332.5}
+      - {x: 256.5, y: 328.5}
+      - {x: 256.5, y: 313.5}
+      - {x: 263.5, y: 296.5}
+      - {x: 278.5, y: 290.5}
+      - {x: 304.5, y: 290.5}
+      - {x: 306.5, y: 291.5}
+      - {x: 306.5, y: 337.5}
+      - {x: 299.5, y: 357.5}
+    - - {x: -163.5, y: 293.5}
+      - {x: -144.5, y: 296.5}
+      - {x: -118.5, y: 316.5}
+      - {x: -118.5, y: 331.5}
+      - {x: -145.5, y: 368.5}
+      - {x: -160.5, y: 371.5}
+      - {x: -190.5, y: 371.5}
+      - {x: -219.5, y: 354.5}
+      - {x: -226.5, y: 329.5}
+      - {x: -239.5, y: 349.5}
+      - {x: -253.5, y: 365.5}
+      - {x: -268.5, y: 371.5}
+      - {x: -291.5, y: 371.5}
+      - {x: -299.5, y: 370.5}
+      - {x: -310.5, y: 363.5}
+      - {x: -327.5, y: 349.5}
+      - {x: -335.5, y: 331.5}
+      - {x: -335.5, y: 312.5}
+      - {x: -334.5, y: 309.5}
+      - {x: -327.5, y: 301.5}
+      - {x: -297.5, y: 293.5}
+      - {x: -268.5, y: 293.5}
+      - {x: -228.5, y: 307.5}
+      - {x: -218.5, y: 299.5}
+      - {x: -184.5, y: 293.5}
+    - - {x: -42.5, y: 374.5}
+      - {x: -75.5, y: 374.5}
+      - {x: -95.5, y: 366.5}
+      - {x: -113.5, y: 333.5}
+      - {x: -113.5, y: 310.5}
+      - {x: -85.5, y: 296.5}
+      - {x: -39.5, y: 296.5}
+      - {x: -27.5, y: 299.5}
+      - {x: -3.5, y: 319.5}
+      - {x: -3.5, y: 327.5}
+      - {x: -18.5, y: 358.5}
+    - - {x: 120.5, y: 354.5}
+      - {x: 120.5, y: 310.5}
+      - {x: 122.5, y: 308.5}
+      - {x: 218.5, y: 308.5}
+      - {x: 236.5, y: 325.5}
+      - {x: 236.5, y: 335.5}
+      - {x: 222.5, y: 354.5}
+    - - {x: 347.5, y: 354.5}
+      - {x: 328.5, y: 333.5}
+      - {x: 328.5, y: 329.5}
+      - {x: 338.5, y: 317.5}
+      - {x: 343.5, y: 308.5}
+      - {x: 443.5, y: 308.5}
+      - {x: 443.5, y: 352.5}
+      - {x: 441.5, y: 354.5}
+    - - {x: -188.5, y: 375.5}
+      - {x: -159.5, y: 375.5}
+      - {x: -132.5, y: 387.5}
+      - {x: -119.5, y: 398.5}
+      - {x: -118.5, y: 402.5}
+      - {x: -118.5, y: 408.5}
+      - {x: -128.5, y: 424.5}
+      - {x: -146.5, y: 447.5}
+      - {x: -163.5, y: 453.5}
+      - {x: -184.5, y: 453.5}
+      - {x: -195.5, y: 452.5}
+      - {x: -221.5, y: 430.5}
+      - {x: -236.5, y: 427.5}
+      - {x: -253.5, y: 452.5}
+      - {x: -259.5, y: 453.5}
+      - {x: -301.5, y: 453.5}
+      - {x: -331.5, y: 432.5}
+      - {x: -335.5, y: 419.5}
+      - {x: -335.5, y: 404.5}
+      - {x: -324.5, y: 389.5}
+      - {x: -304.5, y: 375.5}
+      - {x: -264.5, y: 375.5}
+      - {x: -247.5, y: 380.5}
+      - {x: -227.5, y: 397.5}
+      - {x: -204.5, y: 381.5}
+    - - {x: -28.5, y: 453.5}
+      - {x: -41.5, y: 455.5}
+      - {x: -87.5, y: 455.5}
+      - {x: -98.5, y: 451.5}
+      - {x: -113.5, y: 423.5}
+      - {x: -113.5, y: 398.5}
+      - {x: -82.5, y: 377.5}
+      - {x: -20.5, y: 377.5}
+      - {x: -4.5, y: 399.5}
+      - {x: -4.5, y: 423.5}
+    - - {x: 269.5, y: 440.5}
+      - {x: 253.5, y: 418.5}
+      - {x: 253.5, y: 404.5}
+      - {x: 259.5, y: 394.5}
+      - {x: 294.5, y: 394.5}
+      - {x: 298.5, y: 408.5}
+      - {x: 298.5, y: 422.5}
+      - {x: 278.5, y: 440.5}
+    - - {x: 201.5, y: 460.5}
+      - {x: 199.5, y: 459.5}
+      - {x: 199.5, y: 441.5}
+      - {x: 210.5, y: 432.5}
+      - {x: 227.5, y: 432.5}
+      - {x: 227.5, y: 441.5}
+      - {x: 207.5, y: 460.5}
+    - - {x: 211.5, y: 486.5}
+      - {x: 211.5, y: 456.5}
+      - {x: 221.5, y: 443.5}
+      - {x: 230.5, y: 442.5}
+      - {x: 253.5, y: 442.5}
+      - {x: 253.5, y: 454.5}
+      - {x: 225.5, y: 486.5}
+    - - {x: -240.5, y: 519.5}
+      - {x: -262.5, y: 532.5}
+      - {x: -302.5, y: 532.5}
+      - {x: -332.5, y: 515.5}
+      - {x: -332.5, y: 473.5}
+      - {x: -317.5, y: 457.5}
+      - {x: -301.5, y: 454.5}
+      - {x: -264.5, y: 454.5}
+      - {x: -249.5, y: 459.5}
+      - {x: -227.5, y: 476.5}
+      - {x: -227.5, y: 488.5}
+    - - {x: -190.5, y: 532.5}
+      - {x: -204.5, y: 524.5}
+      - {x: -220.5, y: 506.5}
+      - {x: -220.5, y: 482.5}
+      - {x: -218.5, y: 468.5}
+      - {x: -197.5, y: 454.5}
+      - {x: -155.5, y: 454.5}
+      - {x: -127.5, y: 460.5}
+      - {x: -116.5, y: 471.5}
+      - {x: -116.5, y: 491.5}
+      - {x: -141.5, y: 532.5}
+    - - {x: -28.5, y: 528.5}
+      - {x: -40.5, y: 534.5}
+      - {x: -70.5, y: 534.5}
+      - {x: -92.5, y: 526.5}
+      - {x: -104.5, y: 512.5}
+      - {x: -106.5, y: 509.5}
+      - {x: -106.5, y: 482.5}
+      - {x: -91.5, y: 457.5}
+      - {x: -84.5, y: 455.5}
+      - {x: -46.5, y: 455.5}
+      - {x: -14.5, y: 463.5}
+      - {x: -1.5, y: 474.5}
+      - {x: -1.5, y: 494.5}
+      - {x: -7.5, y: 510.5}
+    - - {x: 305.5, y: 534.5}
+      - {x: 253.5, y: 534.5}
+      - {x: 230.5, y: 521.5}
+      - {x: 230.5, y: 473.5}
+      - {x: 231.5, y: 471.5}
+      - {x: 258.5, y: 457.5}
+      - {x: 291.5, y: 457.5}
+      - {x: 313.5, y: 461.5}
+      - {x: 334.5, y: 480.5}
+      - {x: 334.5, y: 488.5}
+      - {x: 317.5, y: 516.5}
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
